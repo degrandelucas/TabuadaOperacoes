@@ -4,7 +4,7 @@ Este projeto é um programa em Python que oferece uma interface de linha de coma
 
 ## Funcionalidades Principais
 
-1. **Exibir a Tabuada de um Número**: Mostra a tabuada de multiplicação para um número de 1 a 10.
+1. **Exibir a Tabuada de um Número**: Mostra a tabuada de multiplicação para um número escolhido pelo usuário.
 2. **Operações Matemáticas**:
    - **Multiplicação**: Calcula e exibe o produto de dois números.
    - **Soma**: Calcula e exibe a soma de dois números.
@@ -34,4 +34,17 @@ Este projeto é um programa em Python que oferece uma interface de linha de coma
 ## Exemplo de Uso
 
 ```bash
-$ python nome_do_arquivo.py
+$ python TabuadaOperacoes.py
+
+1 - Exibir a Tabuada de um número
+2 - Exibir uma multiplicação entre dois números
+3 - Exibir uma soma entre dois números
+4 - Exibir uma divisão entre dois números
+5 - Exibir uma subtração entre dois números
+6 - Sair do Programa
+
+Multiplicacao(Numero1, Numero2): Calcula e exibe o produto de dois números.
+Soma(Numero1, Numero2): Calcula e exibe a soma de dois números.
+Subtracao(Numero1, Numero2): Calcula e exibe a diferença entre dois números.
+Divisao(Numero1, Numero2): Calcula e exibe o quociente de dois números.
+Tabuada(Numero1): Exibe a tabuada de multiplicação para o número fornecido.
