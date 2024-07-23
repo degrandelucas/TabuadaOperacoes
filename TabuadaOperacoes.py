@@ -1,6 +1,6 @@
 #Programa que exibi a Tabuada de um numero de 1 a 10 ou operações matemáticas entre dois numeros
 
-from Tabuada import Tabuada
+from Tabuada import Tabuada #import Tabuada para importar o modulo (arquivo) Tabuada
 from Multiplicacao import Multiplicacao
 from Soma import Soma
 from Divisao import Divisao
